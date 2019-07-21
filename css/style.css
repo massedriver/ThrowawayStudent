@@ -1,0 +1,28 @@
+h1{
+  color: #5179ba;
+  background-color: lightgray;
+}
+
+body {
+  background-color: lightgrey;
+}
+.list_item{
+  font_font-family: monospace;
+}
+#css_item{
+ color: #5179ba;
+
+}
+
+#picture{
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
+
+#goal_list{
+  border-style: solid;
+border-color: #5179ba;
+width: 30%;
+}
